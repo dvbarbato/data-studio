@@ -1,6 +1,6 @@
 # data-studio
 
-Relatório utilzando o Data Studio (Looker Studio) do Google
+Relatório utilizando o Data Studio (Looker Studio) do Google
 
 link for report:
 https://lookerstudio.google.com/reporting/b0c793a1-478a-423c-8a83-dffe73830b37
